@@ -1,9 +1,9 @@
 {
   "commitMessage": "feat: 내용 추가 {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 30,
   "autoPushInterval": 0,
-  "autoPullInterval": 1,
+  "autoPullInterval": 60,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
