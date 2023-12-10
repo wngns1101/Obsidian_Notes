@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/1-2. 토비의 스프링 3.1.md",
+                "file": "1. Project/1-1. 작성요령.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/1-2. 토비의 스프링 3.1.md",
+                "file": "1. Project/1-1. 작성요령.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/1-2. 토비의 스프링 3.1.md",
+                "file": "1. Project/1-1. 작성요령.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/1-2. 토비의 스프링 3.1.md"
+                "file": "1. Project/1-1. 작성요령.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "9725d78bf401a62d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1. Project/1-2. 토비의 스프링 3.1.md"
+  ]
 }
